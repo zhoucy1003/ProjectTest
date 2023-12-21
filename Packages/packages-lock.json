@@ -145,11 +145,11 @@
       "url": "https://packages.unity.cn"
     },
     "com.zhoucy.unity_package_test": {
-      "version": "git@github.com:zhoucy1003/UnityPackageTest.git#1.0.0-fm.0.2",
+      "version": "git@github.com:zhoucy1003/UnityPackageTest.git#ProjectFM",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "554988387d6847f889859f7638f696976f8c3664"
+      "hash": "ad1adc4be94c87e6a18e2ccb180c686043322a0d"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
